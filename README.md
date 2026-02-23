@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="579" height="296" alt="image" src="https://github.com/user-attachments/assets/51335d14-5b53-47a1-80b2-b3062bda3f9c" />
+
 
 <!--
 **gopallchoudhary/gopallchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
