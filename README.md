@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![Tech Stack](https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,react,nextjs,tailwind,docker&theme=dark&perline=4)
 
 <!--
 **gopallchoudhary/gopallchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
