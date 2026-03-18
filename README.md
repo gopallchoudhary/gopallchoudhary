@@ -5,18 +5,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,react,nextjs,tailwind,docker&theme=dark&perline=4" />
 </p>
+<br/>
 
-<!--
-**gopallchoudhary/gopallchoudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+<summary>&nbsp;<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20" height="20" align="top"></summary>
 
-Here are some ideas to get you started:
+<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=gopallchoudhary&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef" alt="My GitHub Streak"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<p align="center">
+  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopallchoudhary&langs_count=10&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&&text_color=efefef"/>
+<p/>
+
+</details>
