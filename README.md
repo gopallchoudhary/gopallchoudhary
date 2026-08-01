@@ -15,9 +15,4 @@
   <img src="https://github-readme-streak-stats-akash-kadlag.vercel.app/?user=gopallchoudhary&theme=transparent&hide_border=true&stroke=0000&card_width=500px&text_color=efefef" alt="My GitHub Streak"/>
 </p>
 
-<br />
-<p align="center">
-  <img alt="Akash Kadlag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopallchoudhary&langs_count=10&count_private=true&layout=compact&hide_progress=true&theme=transparent&hide_border=true&hide=html&&text_color=efefef"/>
-<p/>
-
 </details>
